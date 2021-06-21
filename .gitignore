@@ -3,3 +3,4 @@ files.zip
 files/
 json/
 .vscode/
+*.csv
