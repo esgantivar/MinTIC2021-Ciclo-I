@@ -4,3 +4,5 @@ files/
 json/
 .vscode/
 *.csv
+*pyc
+.idea/
